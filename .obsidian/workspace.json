@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "symmetric-ciphers"
             }
+          },
+          {
+            "id": "a4e0583209763624",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
         ]
       }
