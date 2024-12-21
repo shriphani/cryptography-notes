@@ -13,3 +13,20 @@
 ```
 
 ct_sizes are of interest here since they need to be bundled with a ciphertext.
+
+|Dilithium2|   |   |   |   |   |
+|---|---|---|---|---|---|
+|**Sizes (in bytes)**|   |**Skylake cycles (ref)**|   |**Skylake cycles (avx2)**|   |
+|||**gen:**|300751|**gen:**|124031|
+|**pk:**|1312|**sign:**|1355434|**sign:**|333013|
+|**sig:**|2420|**verify:**|327362|**verify:**|118412|
+|Dilithium3|   |   |   |   |   |
+|**Sizes (in bytes)**|   |**Skylake cycles (ref)**|   |**Skylake cycles (avx2)**|   |
+|**sk:**||**gen:**|544232|**gen:**|256403|
+|**pk:**|1952|**sign:**|2348703|**sign:**|529106|
+|**sig:**|3293|**verify:**|522267|**verify:**|179424|
+|Dilithium5|   |   |   |   |   |
+|**Sizes (in bytes)**|   |**Skylake cycles (ref)**|   |**Skylake cycles (avx2)**|   |
+|**sk:**||**gen:**|819475|**gen:**|298050|
+|**pk:**|2592|**sign:**|2856803|**sign:**|642192|
+|**sig:**|4595|**verify:**|871609|**verify:**|279936|
