@@ -31,3 +31,8 @@ ct_sizes are of interest here since they need to be bundled with a ciphertext.
 | **pk:**              | 2592 | **sign:**                | 2856803 | **sign:**                 | 642192 |
 | **sig:**             | 4595 | **verify:**              | 871609  | **verify:**               | 279936 |
 |                      |      |                          |         |                           |        |
+
+# Migrating Protocols to PQC:
+
+- Tor:
+	- 
