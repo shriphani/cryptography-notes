@@ -4,4 +4,5 @@
 ## Papers
 - PQConnect: Automated post-quantum end-to-end tunnels (DJB)
 	- https://www.pqconnect.net/pqconnect-20241206.pdf
-- 
+- SPHINCS+C: Compressing SPHINCS+ With (Almost) No Cost
+	- https://eprint.iacr.org/2022/778
